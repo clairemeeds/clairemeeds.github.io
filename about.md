@@ -14,4 +14,3 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [cmeeds@calpoly.edu](cmeeds@calpoly.edu)
-(907) 771-0508
