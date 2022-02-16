@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Alternative Text]( {{ site.baseurl }}/images/picture_CalPolyAOIISept14AsiaCrosonPhotographySanLuisObispoPhotographer-137.jpg.png )
+![Alternative Text]( {{ site.baseurl }}/images/picture_Screen Shot 2021-10-19 at 3.03.51 PM.png )
 
 Some information about you!
 
