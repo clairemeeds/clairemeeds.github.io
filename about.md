@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Alternative Text]( {{ site.baseurl }}/images/picture_CalPolyAOIISept14AsiaCrosonPhotographySanLuisObispoPhotographer-137.jpg.png )
 
 Some information about you!
 
