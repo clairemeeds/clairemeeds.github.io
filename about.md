@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 <img src="{{site.baseurl}}/images/CM.png" alt="Picture of Claire" width="250" style="float: left; margin-top: 0px; margin-right: 10px" />
