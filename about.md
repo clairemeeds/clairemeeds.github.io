@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{site.baseurl}}/images/CM.png" alt="Picture of Claire" width="400" style="float: left; margin-top: 0px; margin-right: 100px" />
+<img src="{{site.baseurl}}/images/CM.png" alt="Picture of Claire" width="400" style="float: left; margin-top: 0px; margin-right: 50px" />
 
 
 
