@@ -13,7 +13,7 @@ My name is Claire Meeds and I am a second-year Biochemistry major at California 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This summer I am planning on studying and taking my MCAT. I also have plans on getting involved with volunteering at a retirement home in Anchorage. 
 
 ### Contact me
 
