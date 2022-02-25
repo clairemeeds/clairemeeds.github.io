@@ -11,9 +11,7 @@ CHEM 331 (Quantitative Analysis)
 MCRO 224 (General Microbiology)
 ANT 201 (Cultural Anthropology)
 
-layout: page
-title: Lab Experience\
-permalink: /pubs/
+#Lab Experience
 Gas Chromatography, Mass Spectroscopy, Titrations, Rotary Evaporator, Thin-Layer Chromatography, Vacuum Filtration, NMR, IR, Fractional Distillation, Chemically-Active Extraction, Electroporation, HPLC, FPLC, Protein Expression, Protein Purification, Lab Centrifugation, Adenylation Domain Assay, Product Formation Assay.
                                 
 
