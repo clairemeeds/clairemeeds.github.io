@@ -10,6 +10,8 @@ permalink: /pubs/
 - CHEM 331 (Quantitative Analysis)
 - MCRO 224 (General Microbiology)
 - ANT 201 (Cultural Anthropology)
+- CHEM 371 (Biochemistry)
+- PSY 201 (General Psychology)
 
 # Lab Experience
 Gas Chromatography, Mass Spectroscopy, Titrations, Rotary Evaporator, Thin-Layer Chromatography, Vacuum Filtration, NMR, IR, Fractional Distillation, Chemically-Active Extraction, Electroporation, HPLC, FPLC, Protein Expression, Protein Purification, Lab Centrifugation, Adenylation Domain Assay, Product Formation Assay.
