@@ -10,7 +10,7 @@ permalink: /pubs/
 - CHEM 331 (Quantitative Analysis)
 - MCRO 224 (General Microbiology)
 - ANT 201 (Cultural Anthropology)
-- CHEM 371 (current)(Biochemistry)
+- CHEM 371 (current)(Biochemical Principles)
 - PSY 201 (General Psychology)
 
 # Lab Experience
